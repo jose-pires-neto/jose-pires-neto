@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jose-pires-neto
-- 👀 I’m interested in desevolvimento mobile.
+- 👀 I’m interested in Front-End.
 - 🌱 I’m currently learning  HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Entre em contato comigo: jose88pires@gmail.com
