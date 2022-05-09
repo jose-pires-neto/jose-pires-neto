@@ -23,9 +23,7 @@ I'm studying Information Systems, HTML, CSS and JavaScript.
 
 
 
-<br>
-<h2>Socials</h2>
-</br>
+Socials:
 
 <p align="left">
   <a href="https://discord.com/users/J.P#8124" target="_blank" rel="noreferrer"
