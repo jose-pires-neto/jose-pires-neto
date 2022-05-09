@@ -23,7 +23,9 @@ I'm studying Information Systems, HTML, CSS and JavaScript.
 
 
 
-<h2>Socials</h2> <br>
+<br>
+<h2>Socials</h2>
+</br>
 
 <p align="left">
   <a href="https://discord.com/users/J.P#8124" target="_blank" rel="noreferrer"
