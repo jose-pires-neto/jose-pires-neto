@@ -20,12 +20,6 @@ I'm studying Information Systems, HTML, CSS and JavaScript.
                                 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
                     </p>
                     
-Hi 👋 My name is José P. ======================== Front-End --------- I'm
-studying Information Systems, HTML, CSS and JavaScript. * 🌍  I'm based in
-Brazil * ✉️  You can contact me at
-[jose88pires@gmail.com](mailto:jose88pires@gmail.com) * 🧠  I'm learning HTML,
-CSS and JavaScript. * 🤝  I'm open to collaborating on Web and Mobile
-Development. * ⚡  "Hard work trumps natural gift." ### Skills
 
 
 
