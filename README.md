@@ -63,7 +63,7 @@ Development. * ⚡  "Hard work trumps natural gift." ### Skills
       height="32"
   /></a>
   <a
-    href="https://www.linkedin.com/in/josé-pires-oliveira"
+    href="https://www.linkedin.com/in/josé-pires-oliveira-a97430237/"
     target="_blank"
     rel="noreferrer"
     ><img
