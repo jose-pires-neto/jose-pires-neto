@@ -20,10 +20,10 @@ I'm studying Information Systems, HTML, CSS and JavaScript.
                                 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
                     </p>
                     
-                  ### Socials
+       ### Socials
                   
                   
-                <p align="left">
+       <p align="left">
                           
                       <a href="https://discord.com/users/J.P#8124" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
