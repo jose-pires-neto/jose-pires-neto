@@ -71,8 +71,8 @@ I'm studying Information Systems, HTML, CSS and JavaScript.
 ### Badges
 
 <b>My GitHub Stats</b>
+<div style="visibility: hidden"> <a href="http://www.github.com/jose-pires-neto" </div>
 
-<a href="http://www.github.com/jose-pires-neto"
   ><img
     src="https://github-readme-stats.vercel.app/api?username=jose-pires-neto&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true"
     alt="jose-pires-neto's GitHub stats"
