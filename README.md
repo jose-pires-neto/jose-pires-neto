@@ -1,7 +1,8 @@
 Hi 👋 My name is José P.
 ========================
 
-Front-End
+
+Web developer | Front-End
 ---------
 
 I'm studying Information Systems, HTML, CSS and JavaScript.
