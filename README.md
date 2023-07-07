@@ -11,7 +11,7 @@ I'm studying Information Systems, HTML, CSS and JavaScript.
 *   ✉️  You can contact me at [jose88pires@gmail.com](mailto:jose88pires@gmail.com)
 *   🧠  I'm learning HTML, CSS and JavaScript.
 *   🤝  I'm open to collaborating on Web and Mobile Development.
-*   ⚡  "Hard work trumps natural gift."<p align="left"> 
+*   ⚡  "In search of improvement"<p align="left"> 
    <h2>Skills</h2>
 
 <p> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
