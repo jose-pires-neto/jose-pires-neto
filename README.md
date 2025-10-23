@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-       █████    ███████     █████████  ██████████    ███████████  █████ ███████████   ██████████  █████████ 
-      ▒▒███   ███▒▒▒▒▒███  ███▒▒▒▒▒███▒▒███▒▒▒▒▒█   ▒▒███▒▒▒▒▒███▒▒███ ▒▒███▒▒▒▒▒███ ▒▒███▒▒▒▒▒█ ███▒▒▒▒▒███
-       ▒███  ███     ▒▒███▒███    ▒▒▒  ▒███  █ ▒     ▒███    ▒███ ▒███  ▒███    ▒███  ▒███  █ ▒ ▒███    ▒▒▒ 
-       ▒███ ▒███      ▒███▒▒█████████  ▒██████       ▒██████████  ▒███  ▒██████████   ▒██████   ▒▒█████████ 
-       ▒███ ▒███      ▒███ ▒▒▒▒▒▒▒▒███ ▒███▒▒█       ▒███▒▒▒▒▒▒   ▒███  ▒███▒▒▒▒▒███  ▒███▒▒█    ▒▒▒▒▒▒▒▒███
- ███   ▒███ ▒▒███     ███  ███    ▒███ ▒███ ▒   █    ▒███         ▒███  ▒███    ▒███  ▒███ ▒   █ ███    ▒███
-▒▒████████   ▒▒▒███████▒  ▒▒█████████  ██████████    █████        █████ █████   █████ ██████████▒▒█████████ 
- ▒▒▒▒▒▒▒▒      ▒▒▒▒▒▒▒     ▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒    ▒▒▒▒▒        ▒▒▒▒▒ ▒▒▒▒▒   ▒▒▒▒▒ ▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒▒▒▒  
-                                                                                                                                                                                                                                                                                                                 
+oooooo   oooooo     oooo           oooo  oooo                                                  
+ `888.    `888.     .8'            `888  `888                                                  
+  `888.   .8888.   .8'    .ooooo.   888   888   .ooooo.   .ooooo.  ooo. .oo.  .oo.    .ooooo.  
+   `888  .8'`888. .8'    d88' `88b  888   888  d88' `"Y8 d88' `88b `888P"Y88bP"Y88b  d88' `88b 
+    `888.8'  `888.8'     888ooo888  888   888  888       888   888  888   888   888  888ooo888 
+     `888'    `888'      888    .o  888   888  888   .o8 888   888  888   888   888  888    .o 
+      `8'      `8'       `Y8bod8P' o888o o888o `Y8bod8P' `Y8bod8P' o888o o888o o888o `Y8bod8P' 
+                                                                                               
+                                                                                                                                                      
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF0000&center=true&vCenter=true&width=940&lines=JOSÉ+P.+%7C+WEB+DEVELOPER;FRONT-END+SPECIALIST;BUILDING+THE+DIGITAL+FUTURE" alt="Typing SVG" />
@@ -22,22 +22,8 @@
   [![GitHub Followers](https://img.shields.io/github/followers/jose-pires-neto?style=for-the-badge&color=red&labelColor=1a1a1a)](https://github.com/jose-pires-neto)
   
 </div>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50">
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50">
-
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50">
-
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
-
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="50">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
----
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **// ABOUT.ME**
+### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="50"> **// ABOUT.ME**
 
 ```javascript
 const jose = {
@@ -78,7 +64,7 @@ console.log("System initialized successfully...");
 
 ---
 
-### 📊 **// SYSTEM_STATS**
+### <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> **// SYSTEM_STATS**
 
 <div align="center">
   
@@ -98,7 +84,7 @@ console.log("System initialized successfully...");
 
 ---
 
-### 🎯 **// FEATURED_PROJECTS**
+### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> **// FEATURED_PROJECTS**
 
 <div align="center">
 
@@ -108,7 +94,7 @@ console.log("System initialized successfully...");
 
 ---
 
-### 🌐 **// CONNECT**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **// CONNECT**
 
 <div align="center">
   
