@@ -144,9 +144,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  💻 Fullstack Development  |  🔬 Scientific Research           ║
-║  🤖 Machine Learning & AI  |  🌿 Amazon Innovation             ║
-║  🚀 Open to collaborations — let's build something amazing!    ║
+║  💻 Fullstack Development  |  🔬 Scientific Research            ║
+║  🤖 Machine Learning & AI  |  🌿 Amazon Innovation              ║
+║ 🚀 Open to collaborations — let's build something amazing!      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
