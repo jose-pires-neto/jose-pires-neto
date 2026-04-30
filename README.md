@@ -1,15 +1,16 @@
 <div align="center">
 
 ```
-oooooo   oooooo     oooo           oooo  oooo                                                  
- `888.    `888.     .8'            `888  `888                                                  
-  `888.   .8888.   .8'    .ooooo.   888   888   .ooooo.   .ooooo.  ooo. .oo.  .oo.    .ooooo.  
-   `888  .8'`888. .8'    d88' `88b  888   888  d88' `"Y8 d88' `88b `888P"Y88bP"Y88b  d88' `88b 
-    `888.8'  `888.8'     888ooo888  888   888  888       888   888  888   888   888  888ooo888 
-     `888'    `888'      888    .o  888   888  888   .o8 888   888  888   888   888  888    .o 
-      `8'      `8'       `Y8bod8P' o888o o888o `Y8bod8P' `Y8bod8P' o888o o888o o888o `Y8bod8P' 
-                                                                                               
-                                                                                                                                                      
+ █     █░▓█████  ██▓     ██▓     ▄████▄   ▒█████   ███▄ ▄███▓▓█████ 
+▓█░ █ ░█░▓█   ▀ ▓██▒    ▓██▒    ▒██▀ ▀█  ▒██▒  ██▒▓██▒▀█▀ ██▒▓█   ▀ 
+▒█░ █ ░█ ▒███   ▒██░    ▒██░    ▒▓█    ▄ ▒██░  ██▒▓██    ▓██░▒███   
+░█░ █ ░█ ▒▓█  ▄ ▒██░    ▒██░    ▒▓▓▄ ▄██▒▒██   ██░▒██    ▒██ ▒▓█  ▄ 
+░░██▒██▓ ░▒████▒░██████▒░██████▒▒ ▓███▀ ░░ ████▓▒░▒██▒   ░██▒░▒████▒
+░ ▓░▒ ▒  ░░ ▒░ ░░ ▒░▓  ░░ ▒░▓  ░░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ░  ░░░ ▒░ ░
+  ▒ ░ ░   ░ ░  ░░ ░ ▒  ░░ ░ ▒  ░  ░  ▒     ░ ▒ ▒░ ░  ░      ░ ░ ░  ░
+  ░   ░     ░     ░ ░     ░ ░   ░        ░ ░ ░ ▒  ░      ░      ░   
+    ░       ░  ░    ░  ░    ░  ░░ ░          ░ ░         ░      ░  ░
+                                ░                                                                                                                                                                        
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF0000&center=true&vCenter=true&width=940&lines=JOSÉ+P.+%7C+WEB+DEVELOPER;FRONT-END+SPECIALIST;BUILDING+THE+DIGITAL+FUTURE" alt="Typing SVG" />
@@ -28,7 +29,7 @@ oooooo   oooooo     oooo           oooo  oooo
 ```javascript
 const jose = {
     location: "Belém, Pará, Brazil 🇧🇷",
-    education: "Information Systems Student",
+    education: "Graduated in Information Systems and pursuing a master's degree in Bioinformatics and Biotechnology.",
     currentFocus: ["HTML5", "CSS3", "JavaScript", "React"],
     mission: "Building responsive and dynamic web experiences",
     status: "🔴 ONLINE - Open for collaboration",
