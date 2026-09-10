@@ -4,31 +4,51 @@
 
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jose-pires-neto&color=red&style=for-the-badge)
-  [![GitHub Followers](https://img.shields.io/github/followers/jose-pires-neto?style=for-the-badge&color=red&labelColor=1a1a1a)](https://github.com/jose-pires-neto)
-  
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://komarev.com/ghpvc/?username=jose-pires-neto&color=ff1e27&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/jose-pires-neto">
+    <img src="https://img.shields.io/github/followers/jose-pires-neto?style=for-the-badge&color=ff1e27&labelColor=0d1117&logo=github&logoColor=white" alt="GitHub Followers" />
+  </a>
+</p>
+
 </div>
 
+
 ---
+### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="38" valign="middle"> **// ABOUT.ME**
 
-### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="50"> **// ABOUT.ME**
-
-<br>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&multiline=true&width=380&height=110&lines=🔴+STATUS%3A+ONLINE+%26+OPEN+TO+COLLABORATE;📍+Belém%2C+Pará%2C+Brazil+🇧🇷;🎯+Mission%3A+Innovation+with+societal+impact" alt="status" />
+    <td width="60%" valign="top">
+      <p>
+        Hello! I'm <b>José Pires</b>, Fullstack Software Engineer and Scientific Researcher focused on Artificial Intelligence, Bioinformatics, and Applied Computing.</b>.
+      </p>
+      <p>
+        Currently, I work as a researcher at NPCA (UFRA) developing Deep Learning pipelines, as well as architecting modern, resilient web applications for complex data.
+      </p>
+      <p>
+        <b>Connect with me: ⤵️</b>
+        <div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/jose-pires-neto)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/josé-pires-oliveira-a97430237/)
+  [![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=red)](https://orcid.org/0009-0008-6400-8710)
+  [![Lattes](https://img.shields.io/badge/Lattes_CV-000000?style=for-the-badge&logo=academia&logoColor=red)](https://lattes.cnpq.br/8438621229583003)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red)](http://www.instagram.com/jose.pires.jp)
+  [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=red)](https://discord.com/users/J.P#8124)
+  [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=red)](https://www.facebook.com/profile.php?id=100066318607610)
+</div>
+      </p>
+      <br>
     </td>
-    <td align="center" width="50%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=3000&pause=1500&color=FF4444&center=true&vCenter=true&multiline=true&width=380&height=110&lines=🎓+MSc.+Bioinformatics+%26+Biotech+—+UFRA;🎓+BSc.+Information+Systems+—+UFRA;🔬+Researcher+at+NPCA+%2F+UFRA" alt="education" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/30084738/232452938-06de4ce6-343d-44de-85d9-5f0c99ab4f27.gif" alt="Ilustração Setup Tech" width="340px" style="max-width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
 
-<br>
 
 <div align="center">
 
@@ -61,19 +81,41 @@
 
 <div align="center">
 
-#### **FRONTEND & BACKEND**
+#### **ARTIFICIAL INTELLIGENCE, DATA & PARALLEL COMPUTING**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" alt="AI & ML Stack" />
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Scipy_%26_Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-#### **DATA SCIENCE & AI**
+#### **FULLSTACK & WEB ARCHITECTURE**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,ruby,rails,nodejs&theme=dark" alt="Fullstack Stack" />
+  </a>
 </p>
 
-#### **DESIGN & TOOLS**
+#### **DATABASE, SPATIAL & CLOUD**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,git,github,vscode&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark" alt="Data & Infrastructure" />
+  </a>
+  <img src="https://img.shields.io/badge/PostGIS-00599C?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
+</p>
+
+#### **DEVELOPMENT & WORKSPACE TOOLING**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" />
+  </a>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 </div>
@@ -84,17 +126,7 @@
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jose-pires-neto&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" />
-  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-pires-neto&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
-
-</div>
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-pires-neto&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&langs_count=8" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jose-pires-neto&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" />
 
 </div>
 
@@ -143,11 +175,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  💻 Fullstack Development  |  🔬 Scientific Research            ║
-║  🤖 Machine Learning & AI  |  🌿 Amazon Innovation              ║
-║ 🚀 Open to collaborations — let's build something amazing!      ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════╗
+║  🚀 Engineered for high performance: Systems, AI & Scientific Impact    ║
+╚═════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
