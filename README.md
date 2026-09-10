@@ -129,7 +129,52 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=jose-pires-neto&repo=Portifolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff)](https://github.com/jose-pires-neto/Portifolio)
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/jose-pires-neto/GitFlowy"><b>🌊 GitFlowy</b></a>
+      <br><br>
+      <sub>An interactive CLI that transforms the Git workflow into a visual experience—featuring semantic commits, branch management, PRs, and a "panic button" to revert everything, all without leaving the terminal.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/jose-pires-neto/GitFlowy">
+        <img src="https://img.shields.io/badge/Repositório-ff0000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/jose-pires-neto/LiquidPeer"><b>🫧 LiquidPeer</b></a>
+      <br><br>
+      <sub>Direct browser-based P2P file transfer via WebRTC, with no servers or logs. Glassmorphism interface featuring fluid animations and camera-based QR code scanning.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/jose-pires-neto/LiquidPeer">
+        <img src="https://img.shields.io/badge/Repositório-ff0000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://liquid-peer.vercel.app">
+        <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/jose-pires-neto/DoctorPenguin"><b>🐧 DoctorPenguin</b></a>
+      <br><br>
+      <sub>Smart desktop pet for Windows: a penguin that wanders across your screen, monitors RAM and temporary files, and chats with you via AI (local Ollama or cloud-based Gemini)..</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/jose-pires-neto/DoctorPenguin">
+        <img src="https://img.shields.io/badge/Repositório-ff0000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
