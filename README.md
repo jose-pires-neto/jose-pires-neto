@@ -84,7 +84,7 @@
 #### **ARTIFICIAL INTELLIGENCE, DATA & PARALLEL COMPUTING**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" alt="AI & ML Stack" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI & ML Stack" />
   </a>
 </p>
 <p>
@@ -95,27 +95,34 @@
 </p>
 
 #### **FULLSTACK & WEB ARCHITECTURE**
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,ruby,rails,nodejs&theme=dark" alt="Fullstack Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,ruby,flutter,python&theme=dark&perline=4" alt="Fullstack Stack" />
   </a>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,rails,nodejs,vue,vite,tailwind,django&theme=dark" alt="Fullstack Stack" />
 </p>
 
 #### **DATABASE, SPATIAL & CLOUD**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark" alt="Data & Infrastructure" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,docker,firebase,cloudflare&theme=dark" alt="Data & Infrastructure" />
   </a>
-  <img src="https://img.shields.io/badge/PostGIS-00599C?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
 </p>
 
 #### **DEVELOPMENT & WORKSPACE TOOLING**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,obsidian,gradle,bun&theme=dark" alt="Tools" />
   </a>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+#### **OPERATING SYSTEM**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple&theme=dark" alt="Tools" />
+  </a>
 </p>
 
 </div>
