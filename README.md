@@ -17,7 +17,7 @@
 
 
 ---
-### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="38" valign="middle"> **// ABOUT.ME**
+### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="38" valign="middle"> **|| ABOUT.ME**
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -77,7 +77,7 @@
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **// TECH_STACK**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **|| TECH_STACK**
 
 <div align="center">
 
@@ -115,7 +115,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> **// SYSTEM_STATS**
+### <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> **|| SYSTEM_STATS**
 
 <div align="center">
   
@@ -125,7 +125,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> **// FEATURED_PROJECTS**
+### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> **|| FEATURED_PROJECTS**
 
 <div align="center">
 
@@ -180,15 +180,35 @@
 
 ---
 
-### 🔬 **// RESEARCH_PROFILE**
+### <img src="https://media1.giphy.com/media/2G5llPaffwvio/giphy.gif" width="50"> **|| RESEARCH_PROFILE**
 
 <div align="center">
 
-| Platform | Link |
-|:--------:|:----:|
-| **Lattes CV** | [lattes.cnpq.br/8438621229583003](https://lattes.cnpq.br/8438621229583003) |
-| **ORCID** | [0009-0008-6400-8710](https://orcid.org/0009-0008-6400-8710) |
-| **Research Lab** | NPCA — Universidade Federal Rural da Amazônia (UFRA) |
+[![Lattes CV](https://img.shields.io/badge/Lattes_CV-000000?style=for-the-badge&logo=academia&logoColor=red)](https://lattes.cnpq.br/8438621229583003)
+[![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=red)](https://orcid.org/0009-0008-6400-8710)
+[![Research Lab](https://img.shields.io/badge/NPCA_%E2%80%94_UFRA-000000?style=for-the-badge&logo=googlescholar&logoColor=red)](https://github.com/jose-pires-neto)
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <sub><b>LATTES CV</b></sub><br>
+      <sub>Official academic résumé (CNPq)</sub><br><br>
+      <code>8438621229583003</code>
+    </td>
+    <td align="center" width="33%">
+      <sub><b>ORCID iD</b></sub><br>
+      <sub>Persistent researcher identifier</sub><br><br>
+      <code>0009-0008-6400-8710</code>
+    </td>
+    <td align="center" width="33%">
+      <sub><b>RESEARCH LAB</b></sub><br>
+      <sub>Affiliated institution</sub><br><br>
+      NPCA — Universidade Federal Rural da Amazônia (UFRA)
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -200,8 +220,6 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/jose-pires-neto)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/josé-pires-oliveira-a97430237/)
-  [![ORCID](https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=red)](https://orcid.org/0009-0008-6400-8710)
-  [![Lattes](https://img.shields.io/badge/Lattes_CV-000000?style=for-the-badge&logo=academia&logoColor=red)](https://lattes.cnpq.br/8438621229583003)
   [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red)](http://www.instagram.com/jose.pires.jp)
   [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=red)](https://discord.com/users/J.P#8124)
   [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=red)](https://www.facebook.com/profile.php?id=100066318607610)
