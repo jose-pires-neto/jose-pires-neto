@@ -81,49 +81,35 @@
 
 <div align="center">
 
-#### **ARTIFICIAL INTELLIGENCE, DATA & PARALLEL COMPUTING**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI & ML Stack" />
-  </a>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/Scipy_%26_Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
-#### **FULLSTACK & WEB ARCHITECTURE**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,ruby,flutter,python&theme=dark&perline=4" alt="Fullstack Stack" />
-  </a>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,rails,nodejs,vue,vite,tailwind,django&theme=dark" alt="Fullstack Stack" />
-</p>
-
-#### **DATABASE, SPATIAL & CLOUD**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,docker,firebase,cloudflare&theme=dark" alt="Data & Infrastructure" />
-  </a>
-</p>
-
-#### **DEVELOPMENT & WORKSPACE TOOLING**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,obsidian,gradle,bun&theme=dark" alt="Tools" />
-  </a>
-</p>
-
-#### **OPERATING SYSTEM**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple&theme=dark" alt="Tools" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <sub><b>AI, DATA & PARALLEL COMPUTING</b></sub><br><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy%2FSciPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <sub><b>FULLSTACK & WEB</b></sub><br><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,astro&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,ruby,rails,python,django,tailwind,vite,flutter&theme=dark" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td align="center" width="50%">
+      <sub><b>DATABASE & CLOUD</b></sub><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,redis,docker,firebase,cloudflare&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <sub><b>TOOLING & OS</b></sub><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,obsidian,gradle,bun&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=windows,apple&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
