@@ -125,6 +125,49 @@
 
 ---
 
+### <img src="https://media.giphy.com/media/l0MYNmVjg4Wg7UVkk/giphy.gif" width="50"> **|| PUBLICATIONS**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left" valign="top" width="33%">
+      <b>Sistema computacional inteligente para rastrear atraso no desenvolvimento de crianças</b><br><br>
+      <sub>Revista DCS, v. 23, n. 89, e5238 · 2026</sub><br><br>
+      <sub>Peer-reviewed journal article on a computational system for tracking developmental delays in children.</sub><br><br>
+      <a href="https://doi.org/10.54899/dcs.v23i89.5238">
+        <img src="https://img.shields.io/badge/DOI-ff0000?style=flat-square" />
+      </a>
+      <a href="https://ojs.revistadcs.com/index.php/revista/article/view/5238">
+        <img src="https://img.shields.io/badge/Read_Article-000000?style=flat-square&logoColor=white" />
+      </a>
+    </td>
+    <td align="left" valign="top" width="33%">
+      <b>Hybrid Artificial Intelligence Model for Detecting Signs of Delayed Child Development</b><br><br>
+      <sub>In: Intelligent Systems — BRACIS 2024, LNCS vol. 15415, Springer, Cham, pp. 196–208 · 2025</sub><br><br>
+      <sub>Book chapter proposing a hybrid model that combines first-order logic and fuzzy logic to identify developmental delays.</sub><br><br>
+      <a href="https://doi.org/10.1007/978-3-031-79038-6_14">
+        <img src="https://img.shields.io/badge/DOI-ff0000?style=flat-square" />
+      </a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-79038-6_14">
+        <img src="https://img.shields.io/badge/SpringerLink-000000?style=flat-square" />
+      </a>
+    </td>
+    <td align="left" valign="top" width="33%">
+      <b>SDIA — Sistema Inteligente para Promoção do Desenvolvimento Infantil na Amazônia Paraense</b><br><br>
+      <sub>Registered Computer Software · INPI (Instituto Nacional da Propriedade Industrial)</sub><br><br>
+      <sub>Registration No. BR512025003857-7 · Registered on 08/13/2025</sub><br><br>
+      <img src="https://img.shields.io/badge/INPI_Registered-ff0000?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<sub>See full publication history on <a href="https://lattes.cnpq.br/8438621229583003">Lattes</a> or <a href="https://orcid.org/0009-0008-6400-8710">ORCID</a>.</sub>
+
+</div>
+
+---
+
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> **|| FEATURED_PROJECTS**
 
 <div align="center">
@@ -214,7 +257,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **// CONNECT**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **|| CONNECT**
 
 <div align="center">
   
