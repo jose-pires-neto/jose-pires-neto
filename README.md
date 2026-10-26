@@ -115,14 +115,30 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> **|| SYSTEM_STATS**
+## || SYSTEM_STATS
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-pires-neto&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
-
+  <table border="0">
+    <tr valign="middle">
+      <td align="center">
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=jose-pires-neto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ff003c&text_color=e0e0e0&icon_color=ff003c&ring_color=ff003c" alt="Stats" />
+      </td>
+      <td align="center">
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-pires-neto&layout=compact&card_width=320&langs_count=5&hide_border=true&bg_color=00000000&title_color=ff003c&text_color=e0e0e0" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr valign="middle">
+      <td colspan="2" align="center">
+        <br />
+        <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-pires-neto&hide_border=true&background=00000000&ring=ff003c&fire=ff003c&currStreakLabel=ff003c&currStreakNum=ff003c&sideNums=ffffff&sideLabels=ff003c&dates=888888" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
+
+---
 ---
 
 ### <img src="https://media.giphy.com/media/l0MYNmVjg4Wg7UVkk/giphy.gif" width="50"> **|| PUBLICATIONS**
