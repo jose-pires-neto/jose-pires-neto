@@ -115,7 +115,7 @@
 
 ---
 
-## || SYSTEM_STATS
+### <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> **|| SYSTEM_STATS**
 
 <div align="center">
   <table border="0">
